@@ -118,8 +118,6 @@
 
 <hr/>
 
-* Credit: [Zaid Khan](https://github.com/ZaidKhan2002)
-* Last Edited on: 27/09/2021
 
 
 
