@@ -101,7 +101,7 @@
 <details>
   <summary><b>⚡ Recent GitHub Activity</b></summary>
   <br/>
-   <a href="https://github.com/ZaidKhan2002"><img alt="Zaid's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=ZaidKhan2002&custom_title=Zaid%20Khan's%20Contribution%20Graph&theme=react-dark" /></a>
+   <a href="https://github.com/ZaidKhan2002"><img alt="Zaid's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=ZaidKhan2002&custom_title=Zaid%20Khan's%20Contribution%20Graph&theme=react-dark"/></a>
   <br/>
 
 </details>
