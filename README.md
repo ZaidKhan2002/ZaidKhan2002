@@ -6,7 +6,7 @@
 <hr/>
 <h4 align="center">I am a Sophomore at Ramrao Adik Institute of Technology pursuing B.Tech. in Information Technology. I am an enthusiastic and a social person who loves to take up new challenges and learn new skills. I love meeting new people, exchanging ideas and spreading knowledge and positivity.In my free time I like reading books and also about stock investment.</h4>
 <br>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=ZaidKhan2002&label=Profile%20views&color=0e75b6&style=plastic" alt="ZaidKhan2002" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=ZaidKhan2002&label=Vistors%20count&color=0e75b6&style=plastic" alt="ZaidKhan2002" /> </p>
 
 ## 🔥 Streak Stats
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ZaidKhan2002&theme=algolia" alt="ZaidKhan2002"  /></p>
