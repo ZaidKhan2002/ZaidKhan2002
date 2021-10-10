@@ -9,7 +9,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ZaidKhan2002&label=Vistors%20count&color=0e75b6&style=plastic" alt="ZaidKhan2002" /> </p>
 
 ## 🔥 Streak Stats
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ZaidKhan2002&theme=algolia" alt="ZaidKhan2002"  /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ZaidKhan2002&theme=algolia" alt="ZaidKhan2002"/></p>
 
 
 ## 🛠️ My Skills
