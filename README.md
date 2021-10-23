@@ -115,7 +115,6 @@
 	<a href="https://www.linkedin.com/in/zaid-khan-a342231b5/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
 	<a href="https://www.instagram.com/zaidd._.khan/"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>	
 </p>
-
 <hr/>
 
 
