@@ -93,15 +93,13 @@
   &nbsp;
 	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ZaidKhan2002&show_icons=true&locale=en&layout=compact&theme=algolia" alt="ZaidKhan2002" height="192px"/>
   <br/>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
   </p>
 </details>
-
 
 <details>
   <summary><b>⚡ Recent GitHub Activity</b></summary>
   <br/>
-   <a href="https://github.com/ZaidKhan2002"><img alt="Zaid's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=ZaidKhan2002&custom_title=Zaid%20Khan's%20Contribution%20Graph&theme=react-dark"/></a>
+   <a href="https://github.com/ZaidKhan2002"><img alt="Zaid's Activity Graph" src="https://activity-graph.herokuapp.com/graphusername=ZaidKhan2002&theme=react-dark"</a>
   <br/>
 
 </details>
