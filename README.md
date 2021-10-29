@@ -101,7 +101,6 @@
   <br/>
    <a href="https://github.com/ZaidKhan2002"><img alt="Zaid's Activity Graph" src="https://activity-graph.herokuapp.com/graphusername=ZaidKhan2002&theme=react-dark"</a>
   <br/>
-
 </details>
 
 <br/>
