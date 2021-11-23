@@ -8,8 +8,28 @@
 <br>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ZaidKhan2002&label=Vistors%20count&color=0e75b6&style=plastic" alt="ZaidKhan2002" /> </p>
 
-## 🔥 Streak Stats
+## 📊 Github Stats 
+
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ZaidKhan2002&theme=algolia" alt="ZaidKhan2002"/></p>
+
+<details> 
+  <summary><b>💻 GitHub Profile Stats</b></summary>
+  <br/>
+  <p align="center">
+    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Zaid's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ZaidKhan2002&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
+<br/>
+  &nbsp;
+	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ZaidKhan2002&show_icons=true&locale=en&layout=compact&theme=algolia" alt="ZaidKhan2002" height="192px"/>
+  <br/>
+  </p>
+</details>
+
+<details>
+  <summary><b>⚡ Recent GitHub Activity</b></summary>
+  <br/>
+   <a href="https://github.com/ZaidKhan2002"><img alt="Zaid's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=ZaidKhan2002&theme=react-dark"</a>
+  <br/>
+</details>
 
 
 ## 🛠️ My Skills
@@ -80,28 +100,6 @@
 </p>
 
 <br/>
-
-## 📊 Github Stats (Expand to View) 
-
-
-<details> 
-  <summary><b>💻 GitHub Profile Stats</b></summary>
-  <br/>
-  <p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Zaid's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ZaidKhan2002&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
-<br/>
-  &nbsp;
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ZaidKhan2002&show_icons=true&locale=en&layout=compact&theme=algolia" alt="ZaidKhan2002" height="192px"/>
-  <br/>
-  </p>
-</details>
-
-<details>
-  <summary><b>⚡ Recent GitHub Activity</b></summary>
-  <br/>
-   <a href="https://github.com/ZaidKhan2002"><img alt="Zaid's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=ZaidKhan2002&theme=react-dark"</a>
-  <br/>
-</details>
 
 <br/>
 
