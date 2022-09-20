@@ -4,7 +4,7 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Information+Technology+Student;Aspiring+Full+Stack+Web+Developer;DevOps%20|%20Cloud%20|%20Open+Source%20Enthusiast;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
 </p>
 <hr/>
-<h4 align="center">I am a Second Year undergrad student at Ramrao Adik Institute of Technology pursuing B.Tech. in Information Technology. I am an enthusiastic and a social person who loves to take up new challenges and learn new skills. I love meeting new people, exchanging ideas and spreading knowledge and positivity. In my free time I like reading books.</h4>
+<h4 align="center">I am a Pre Final Year undergrad student at Ramrao Adik Institute of Technology pursuing B.Tech. in Information Technology. I am an enthusiastic and a social person who loves to take up new challenges and learn new skills. I love meeting new people, exchanging ideas and spreading knowledge and positivity. In my free time I like reading books.</h4>
 <br>
 <p align="center"><img src="https://komarev.com/ghpvc/?username=ZaidKhan2002&label=Stalkers 👀&color=0e75b6&style=plastic" alt="ZaidKhan2002" /> </p>
 
