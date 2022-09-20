@@ -15,11 +15,11 @@
 <details> 
   <summary><b>💻 GitHub Profile Stats.</b></summary>
   <br/>
-  <p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Zaid's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ZaidKhan2002&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
+  <p align="flex">
+    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Zaid's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ZaidKhan2002&show_icons=true&count_private=true&theme=algolia" height="180px"/></a>
 <br/>
   &nbsp;
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ZaidKhan2002&show_icons=true&locale=en&layout=compact&theme=algolia" alt="ZaidKhan2002" height="192px"/>
+	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ZaidKhan2002&show_icons=true&locale=en&layout=compact&theme=algolia" alt="ZaidKhan2002" height="200px"/>
   <br/>
   </p>
 </details>
